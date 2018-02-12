@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

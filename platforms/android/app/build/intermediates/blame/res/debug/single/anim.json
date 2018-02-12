@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\81405dfec25ebaba3dd1032d7f84129dc45bb47e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\81405dfec25ebaba3dd1032d7f84129dc45bb47e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\81405dfec25ebaba3dd1032d7f84129dc45bb47e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\81405dfec25ebaba3dd1032d7f84129dc45bb47e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\groceries\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Makesi Fortune\\.android\\build-cache\\5bded52ec449854664edd621575df3d4faee1099\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
