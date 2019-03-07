@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.cloud/Build.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

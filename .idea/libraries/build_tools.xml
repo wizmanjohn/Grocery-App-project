@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="build-tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/build-tools/dts-generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build-tools/android-metadata-generator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build-tools/static-binding-generator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

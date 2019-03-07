@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/app/build/exploded-dependencies/13/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

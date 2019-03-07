@@ -1,9 +1,30 @@
 {
-	"time": "Sat Feb 03 2018 18:02:59 GMT-0400 (SA Western Standard Time)",
 	"nativePlatformStatus": "3",
-	"bundle": false,
+	"appFilesHashes": {
+		"C:\\groceries\\app\\views\\login\\login.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"C:\\groceries\\app\\app.css": "189a2f4eb0a84a5dac31c3bb97d8ec8165fe68a5",
+		"C:\\groceries\\app\\app.js": "9ee4ca2ef410aa6e4cbd6dcb94175a6c3152d4d2",
+		"C:\\groceries\\app\\package.json": "dc1aa705c8a06e5b14a22832ccd83815c2c1cb9e",
+		"C:\\groceries\\app\\platform.android.css": "c2b2298f4eadbf28d1e31f4e4949840343b0f15f",
+		"C:\\groceries\\app\\platform.ios.css": "c388d679494c419ad29f75ecea18916ad4c94bc6",
+		"C:\\groceries\\app\\README.md": "c8f98a5aa76e9c68b874f2d986c47887ecf291e0",
+		"C:\\groceries\\app\\shared\\config.js": "9042bf41665022efe735aef8c7a48bc7626072c5",
+		"C:\\groceries\\app\\shared\\view-models\\user-view-model.js": "4486e9a596fa689f0b6e76fe2e07fda5cc299f2a",
+		"C:\\groceries\\app\\shared\\view-models\\grocery-list-view-model.js": "00ffe60f6b0fc803ca726c6efa04c43aea13b577",
+		"C:\\groceries\\app\\shared\\utils\\ios-swipe-delete.js": "9e53cfa50b8ffc800577cf369fc02d0305f6bc7a",
+		"C:\\groceries\\app\\views\\list\\list.css": "c09776f34b4d20aa5f633397fd980649e1467148",
+		"C:\\groceries\\app\\views\\list\\list.js": "fb012e105bcedd78fa9ae80012f9c3ea74862915",
+		"C:\\groceries\\app\\views\\list\\list.xml": "393f2029cda80e13384f1b3d21a0bc2b2c14dcad",
+		"C:\\groceries\\app\\views\\login\\login.js": "2d296f8b882ee6cfb004af599cf36d695c517284",
+		"C:\\groceries\\app\\views\\login\\login.xml": "7fee66a5a6436706d88b055d88e348e7a465728d",
+		"C:\\groceries\\app\\views\\register\\register.js": "663b19e474d28f75dc9faeac7fb5d1b6f39f7a74",
+		"C:\\groceries\\app\\views\\register\\register.xml": "974ffad85045b6c7ca6b3431ce960bf187755eb5",
+		"C:\\groceries\\app\\images\\apple.jpg": "c033a7a48829675b73f5d1db5360ffd53a737e01"
+	},
 	"release": false,
-	"changesRequireBuild": false,
-	"projectFileHash": "ea9b349569a979b3c04fae239a1d65da12feb985e534703ecbc0ff07e57a12de",
-	"changesRequireBuildTime": "Thu Feb 01 2018 13:54:12 GMT-0400 (SA Western Standard Time)"
+	"bundle": false,
+	"changesRequireBuild": true,
+	"time": "Wed Mar 06 2019 23:58:25 GMT-0400 (SA Western Standard Time)",
+	"changesRequireBuildTime": "Wed Mar 06 2019 23:58:25 GMT-0400 (SA Western Standard Time)",
+	"projectFileHash": "182b5b27d827639180cc8b681a8dbd364eee0d1becb5e58661c2df083b7b44ed"
 }
